@@ -63,7 +63,7 @@ ComposeWanAndroid/
 
 1. 克隆仓库
    ```bash
-   git clone https://github.com/你的用户名/ComposeWanAndroid.git
+   git clone https://github.com/LDLGH/ComposeWanAndroid.git
 
 
 打开 Android Studio (建议最新版本)
